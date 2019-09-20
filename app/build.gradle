@@ -37,7 +37,7 @@ dependencies {
     // UI
     implementation 'fr.avianey.com.viewpagerindicator:library:2.4.1.1@aar'
     implementation 'com.github.chrisbanes:PhotoView:2.0.0'
-    implementation 'com.github.pedrovgs:renderers:3.3.3'
+    implementation 'com.github.pedrovgs:renderers:3.4.0'
     implementation 'com.mapbox.mapboxsdk:mapbox-android-sdk:6.8.0'
     implementation 'com.mapbox.mapboxsdk:mapbox-android-plugin-localization:0.6.0'
     implementation 'com.github.deano2390:MaterialShowcaseView:1.2.0'
